@@ -35,6 +35,9 @@ To use this program, run it in your browser and select the language you would li
     <li>ORM</li>
 </ul>
 
+
+<img src="public/assets/img/project-flipcards.png" alt="flipcards">
+
 ## License 
 <a name="license"></a>
  <ul>
